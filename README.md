@@ -3,5 +3,4 @@
 
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antarctica1](https://github.com/Antarctica1/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojeon9)](https://github.com/seojeon9/github-readme-stats)
