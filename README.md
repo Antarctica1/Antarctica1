@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antarctica1&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antarctica1&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antarctica1&hide=stars,contribs&count_private=true)](https://github.com/Antarctica1/github-readme-stats)
 
 <!--
