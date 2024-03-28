@@ -3,3 +3,5 @@
 
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antarctica1](https://github.com/Antarctica1/github-readme-stats)
+
